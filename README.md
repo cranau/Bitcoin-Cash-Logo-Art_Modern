@@ -8,20 +8,20 @@ If you would like to see a particular format added or you have created a new des
 
 ### Logo icon
 
-![Bitcoin Cash logo icon](bch-logo-icon.png)
+![Bitcoin Cash logo icon](logo-icon/bch-logo-icon.png)
 
 ### Logo with name
 
-![Bitcoin Cash logo with name](bch-logo-with-name.png)
+![Bitcoin Cash logo with name](logo-with-name/bch-logo-with-name.png)
 
 ### Storefront window
 
-![Bitcoin Cash storefront window](bch-logo-storefront-window.png)
+![Bitcoin Cash storefront window](storefront-window/bch-storefront-window.png)
 
 ### Cash register
 
-![Bitcoin Cash cash register](bch-logo-cash-register.png)
+![Bitcoin Cash cash register](cash-register/bch-cash-register.png)
 
 ### Tip jar
 
-![Bitcoin Cash tip jar](bch-logo-tip-jar.png)
+![Bitcoin Cash tip jar](tip-jar/bch-tip-jar.png)

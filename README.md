@@ -6,22 +6,42 @@ Feel free to use and modify in any way you see fit. You can use these for screen
 
 If you would like to see a particular format added or you have created a new design, please [post an issue](https://github.com/cranau/Bitcoin-Cash-Logo-Art_Modern/issues) to announce it to us.
 
-### Logo icon
+&nbsp;
+
+## Logo icon
+
+&nbsp;
 
 ![Bitcoin Cash logo icon](logo-icon/bch-logo-icon.png)
 
-### Logo with name
+&nbsp;
+
+## Logo with name
+
+&nbsp;
 
 ![Bitcoin Cash logo with name](logo-with-name/bch-logo-with-name.png)
 
-### Storefront window
+&nbsp;
+
+## Storefront window
+
+&nbsp;
 
 ![Bitcoin Cash storefront window](storefront-window/bch-storefront-window.png)
 
-### Cash register
+&nbsp;
+
+## Cash register
+
+&nbsp;
 
 ![Bitcoin Cash cash register](cash-register/bch-cash-register.png)
 
-### Tip jar
+&nbsp;
+
+## Tip jar
+
+&nbsp;
 
 ![Bitcoin Cash tip jar](tip-jar/bch-tip-jar.png)

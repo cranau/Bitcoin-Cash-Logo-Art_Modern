@@ -8,7 +8,11 @@ If you would like to see a particular format added or you have created a new des
 
 &nbsp;
 
+&nbsp;
+
 ## Logo icon
+
+&nbsp;
 
 &nbsp;
 
@@ -16,7 +20,11 @@ If you would like to see a particular format added or you have created a new des
 
 &nbsp;
 
+&nbsp;
+
 ## Logo with name
+
+&nbsp;
 
 &nbsp;
 
@@ -24,7 +32,11 @@ If you would like to see a particular format added or you have created a new des
 
 &nbsp;
 
+&nbsp;
+
 ## Storefront window
+
+&nbsp;
 
 &nbsp;
 
@@ -32,7 +44,11 @@ If you would like to see a particular format added or you have created a new des
 
 &nbsp;
 
+&nbsp;
+
 ## Cash register
+
+&nbsp;
 
 &nbsp;
 
@@ -40,7 +56,11 @@ If you would like to see a particular format added or you have created a new des
 
 &nbsp;
 
+&nbsp;
+
 ## Tip jar
+
+&nbsp;
 
 &nbsp;
 
